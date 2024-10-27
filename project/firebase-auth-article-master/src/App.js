@@ -14,7 +14,7 @@ function App() {
           <Route exact path="/register" element={<Register />} />
           <Route exact path="/reset" element={<Reset />} />
           <Route exact path="/dashboard" element={<Dashboard />} />
-          {/* test fwe*/}
+          {/* test ww*/}
         </Routes>  
       </Router>
     </div>  
